@@ -1,0 +1,1 @@
+This script uses python to pull comments on the Automated Vehicles Policy from the NHTSA Website.
