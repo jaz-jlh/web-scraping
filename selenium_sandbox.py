@@ -10,9 +10,9 @@ import time
 
 browser = webdriver.Firefox()		# create browser instance with Firefox
 
-for id in range(571,1087):
+for id in range(1087,1125):
 	if id%20 == 0:
-		time.wait(10)
+		time.sleep(10)
 	print "{",
 	print("Comment #" + str(id))
 	instanceURL = BASE_URL
