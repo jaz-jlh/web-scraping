@@ -10,7 +10,11 @@ import time
 
 browser = webdriver.Firefox()		# create browser instance with Firefox
 
-for id in range(2,10):
+for id in range(571,1087):
+	if id%20 == 0:
+		time.wait(10)
+	print "{",
+	print("Comment #" + str(id))
 	instanceURL = BASE_URL
 	for i in range(4 - len(str(id))):
 		instanceURL += "0"
@@ -18,13 +22,19 @@ for id in range(2,10):
 	#print(str(id) + " : " + instanceURL)	#debug print
 	browser.get(instanceURL)
 	pageReady = 0
-	while True:
+	timeout = time.time() + 15		#15 second timeout
+	while time.time() < timeout:
 		try:
 			elements = browser.find_elements_by_tag_name('div')
-			time.sleep(0.5)
-			print("Author: " + elements[19].text)
-			print("Date: " + elements[67].text)
-			print("Comment: " + elements[28].text)
+			if(len(elements[19].text) < 2):
+				continue;
+			author = elements[19].text
+			print("Author: " + author[13:])
+			date = elements[67].text
+			print("Date: " + date[13:])
+			comment = elements[28].text
+			print("Comment: " + comment[254:])
+			
 			# Code for identifying locations for Author, Date, and Comment Text
 			# Author: 19		Date: 67		Comment: 28
 			# for i in range(len(elements)):
@@ -37,3 +47,4 @@ for id in range(2,10):
 			break;
 		except:
 			pageReady = 0
+	print "}"

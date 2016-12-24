@@ -1,0 +1,3885 @@
+{ Comment #2
+Author: John Walsh
+Date: Sep 26, 2016
+Comment: My concern about HAVs is how they will interact with emergency vehicles. Will they have the ability to detect both mechanical and electronic sirens? Will they be able to locate emergency vehicles and determine their direction and speed by doppler effect of sirens as human drivers do? Will they recognize emergency vehicles approaching if there is no audible warning, particularly unmarked vehicles and POVs with red or blue lights? Will HAVs be able to distinguish between the air horns of emergency vehicles as opposed to truckers using their air horns for emergency and non-emergency purposes? How will they distinguish between the flashing red lights of emergency vehicles and normal flashing red brake of turn signal lights? Will they be able to recognize emergency vehicles stopped in the roadway to protect active incident areas, or school buses allowing children to cross the street? How will HAVs respond when the detect an oncoming emergency vehicle, will they pull to the right and stop as some state laws require, or will they pull to the left when in a passing lane of a major highway? Will they be able to inch out of the way for emergency vehicles when traffic is stopped on the highway due to a crash ahead? Will there be a way for emergency vehicle operators to signal to HAVs how to respond in emergencies? Responding quickly and appropriately to emergencies and emergency vehicles is one of the higher level skills which drivers need. Although many drivers are distracted and perform poorly under these sudden unexpected changes, emergency vehicle operators are reasonably successful in conveying their urgency and engendering the necessary cooperation of other drivers. How do the designers plan for HAVs to perform these high level skills in times of life and death?
+ 
+}
+{ Comment #3
+Author: Carl Reed
+Date: Oct 5, 2016
+Comment: I anxiously look forward to a day with a self driving car and the moblitiy and economits benefits thwy will enable. My concern in the near term is the transition from human responsibilty to machine responsibility. Speaking for myeslf, once I beging to trust a technology I tend to start relying on it to do thing I once did. An example is a back up camera, for the longest time I did not look at the camera's image. Instead I would turn and look over my shoulder. Nowdays, I nearly 100% use the camera. The exception is whenthe camera is obstructed by dirt or snow. Which leads me back to my concern. Newer vehicles have multiple cameras to assist me as a driver, the more assistance they give me the more dependant Ibecome on them, and the less I rely on myself. When I think of my dirty backup camera (that I am to lazy to clean off when it is dirty), I am concerned that my other camera's are also getting dirty and can't perform thier intend purpose putting me and others in danger. The auto makers could probably use the windshield washer to clean the cameras somehow, but what about when I run out of the window cleaner? My wife's vehicle does not even notify her when the fluid is low. I like that were aiming high, but we shuld be certain the arrow is first knocked.
+ 
+}
+{ Comment #4
+Author: Celeste Brunson
+Date: Oct 5, 2016
+Comment: Docket No. NHTSA-2016-0090
+
+The exploration of developing automated or self-driving cars began in the 1920's and through the years various companies and universities have developed some sort of prototype. While innovation is a cornerstone of all developing societies, it is pertinent that innovation be kept under controlled protocols. If it were not so, then the innovators would run the gamut on creating whatever behooves them to feed self-interests that in most cases are filled with pathological idiocy. In modern times, the various innovators in the area of automated vehicles have professed interesting reasons for their pursuit of developing such vehicles. The President of Lyft, a ride-sharing service provider, indicated in an interview in the September 20, 2016 edition of USA Today that he wants to "drive community and not cars to be the center of our everyday life." Basically, it would not disturb him if the self-driving cars market were to displace workers like taxi drivers, bus drivers, parking lot attendants, auto repairmen, and auto repair shops. He wants to have an app-based-pay-as-you-go model which obviously would totally wipe out an entire segment of the banking and finance markets. That's another 4 million or more people out of work. It sounds like his idea of "community" is warped because there's no community if the people are unable to work to build up the community.
+
+The CEO of Telsa indicated in an interview with Fortune magazine (December 21, 2015) that his ultimate goal is to have full autonomous vehicles on the road. Currently, his company has produced auto-pilot vehicles which requires the driver to have a hands-on experience. The driver of an auto-pilot enabled car is supposed to have their hands on the wheel but, apparently, that has been shown not to always be the case in video footage placed online showing some drivers even getting in the backseat while the car is on auto-pilot. Telsa's Elon Musk acknowledges in his master plan (https://www.tesla.com/blog/master-plan-part-deux) that the cost of owning an autonomous vehicle may be out of reach for most of the masses but to make up for that he suggests that those who can't afford to own one will be able to hail a ride from his fleet of self-driving cars. So clearly his plan is to build a massive company with a bulk of civilization dependent upon his solar-powered self-driving cars. Albeit, he's correct that civilization must move away from its reliance on fossil fuel, but not at the cost of being more than 90% reliant on one company's innovation.
+
+Google, the company who became rich over an internet search engine, has created a totally self-driving car that is designed for riding not driving, runs off an electric battery, and has sensors that supposedly detects foot traffic, cyclists, and other objects with software that classifies these objects based on their size, shape, and movement patterns. Google claims that the software even predicts what all the objects in view might do next. So, it's supposed to actually predict when a pedestrian will cross the street. What about if a child playing with a ball that goes into the street runs after it from between some parked cars? Unexpected incidents like this cannot possibly be part of the software's code. The reality is that these companies and their leaders are innovating toys for their plaything without regard to human productivity, jobs, driver safety, privacy rights, software and hardware breakdown, and the rise of artificial intelligence. Don't be foolish to think that the type of technology in these automated cars is minuscule compared to the kind of artificial intelligence that could take over from humanity. These automated vehicles are just the beginning. If the NHTSA was wise it would propagate regulations allowing for some restrictions on having total autonomous vehicles. The auto-pilot enabled model is the better choice with policy imputing responsibility upon the driver to take over when needed. The driver who wants to act irresponsibly and get in the backseat has to pay a fine just like drivers who speed over the limits. Let states have rights to intervene because it's at the local level where cars are driven.
+
+ 
+}
+{ Comment #5
+Author: Tracy Lauer
+Date: Oct 5, 2016
+Comment: As a 49 year old woman, I look forward to owning a self driving car. It represents future independence as I look forward to older age. I would like a completely automated car (no human intervention) that communicates with the transportation system and other cars. Thank you for considering my input.
+ 
+}
+{ Comment #6
+Author: Donald McCallum
+Date: Oct 5, 2016
+Comment: Please work to obtain pre-market approval authority. This field of endeavor is much too fraught with potential safety hazards to allow underfunded start-ups and fly by nights to fill the roads with under tested technology to interact with the driving public it will have to share the road with for at least the first 5 decades or so. I do not much care if it serves as a barrier to startups or their equal to getting a toehold in the market. No one is allowed to sell an un-certified aircraft design and that has helped the aviation industry to achieve decent levels of safety, not that there isn't room for improvement. It might be a good idea to require a "black box" trip recorder to help accident investigators determine what happened in a crash. That might be a good idea for all new vehicles. As a driver who learned to drive in Cheboygan, Michigan, in a very snowy winter I have serious doubts about the ability of software engineers ability to anticipate all the hazards an auto is likely to encounter, especially during inclement weather. A possible strategy might be to limit early models to areas that never get snowed on or that never experience other severe weather events such as hurricanes and tornadoes. Even though I am an Electronics Engineer and dearly love technology, I am not much in favor of technology for the sake of technology. Perhaps we can define progress to mean that just because we CAN do a thing, it does not necessarily follow that we SHOULD do that thing. The preceding idea is not original with me.
+ 
+}
+{ Comment #7
+Author: Jonathan Priluck
+Date: Oct 5, 2016
+Comment: NHTSA is definitely on the right path for dealing with a rapidly evolving technology. Government should help promote the growth and acceptance of technology, while providing a regulatory framework that is as flexible and innovative as the technology itself. This new approach of setting out guidelines is an admirable, and forward thinking methodology. I have a few suggestions that might be of assistance.
+
+Don't underestimate the interaction with AI research and development. Artificial Intelligence is central to autonomous vehicles. But AI is not the whole story, there is also something called Composite Intelligence, or CI. CI, like autonomous vehicles, is already here. In fact it's been with us for quite some time. Composite intelligence is sort of half-way between human intelligence, and machine intelligence. Bank ATMs are a good example, they are a CI system. The machine does the counting, scanning, and handles the security, the human being provides decision making. Not just at the ATM, this is also true at the interbank network level, and internationally. People and machines are working together as a system. The machines do what the machines are good at, and people do what humans are good at. That's Composite Intelligence.
+
+Without a doubt, some of the automated vehicles we're already seeing on our roads, and more we will soon be seeing, will be CI systems. The idea of the driver being in the car, but not actually driving all the time, that's also CI. As you move from Human Intelligence, toward full machine intelligence, and then to AI (AI being self aware, still many years off) we are going to pass through a sliding scale CI zone. At the start the "driver," or perhaps we should call this person sitting behind the wheel but not fully driving, the "monitor," will have to pay attention. But as the sliding scale progresses, the monitor will be able to talk on the phone, then read, and finally take a nap.
+
+I would also suggest that NHTSA consider carving up the problem of automated vehicles in some technologically rational manner. Think about the different driving zones that exist, and the different modes. For different zones there should be different safety guidelines. For example: city streets are not limited access highways. There are residential neighborhoods, industrial neighborhoods, and different times of day, and varying weather conditions; these might be considered as different modes.
+
+Different parts of the country also have a huge impact on the characteristics of the different driving environments. It's because terrain affects how our roads were initially engineered. The western deserts are a piece of cake: long straight highways that stretch for hundreds of miles with nary a rest stop. If we don't already have automated big rigs driving these highway zones, then something is wrong, and the developers need to step up their game. The point is this, one set of guidelines is a great start. Don't stop there! Find places where it is easier, and harder, to introduce automated vehicles. Identify the boundaries between zone, then customize your guidelines for each difficulty level. Invite industry to help you work out the details together.
+
+Downtown traffic in New York City is probably the last place we should expect to see market penetration. Because that's probably going to require something very close to true AI. But there are lots of roads in America where automated cars and trucks could already be making a huge impact, pretty much all of rural America. Breaking the problem up helps move everything forward, technology and regulation both.
+
+Get help from The Pentagon. The defense and aerospace industries have some amazing sensor technology. Stuff the commercial automated car folks may not even be aware of. Lots of classified stuff. Figure out how to work with them without compromising national security. I myself am currently developing full spectrum night vision. Not some grainey red or green computer generated image. Rather, a night vision experience, indistinguishable from normal daylight seeing. It's completely passive, and has zero electronics. It's purely optical technology, lenses, and mirrors. All real images operating at the speed of light, no CCD cameras, no computers. It's called "Smart Windshield Technology (TM)." In essence it is a mechanical cats eye. Even without automated cars, think how many lives could be saved if nobody ever had to drive in the dark ever again.
+
+It's not just for humans either. Full spectrum night vision can provide software, and computers, with denser, richer, data sets.
+
+Dr. Jonathan Priluck PhD (Physics, Materials Science, Electro-optics, Applied Mathematics)
+Founder and CEO of Jonathan Aerospace Materials Corporation, Inventor of Lattice Block Materials
+Unofficial Chief of Naval Innovation at the Office of Naval Research for 30 years
+www.jonathanaerospacecorp.com
+Attachments  (10)
+Darpa White Paper
+View Attachment:
++ View more information
+Abstract:
+Darpa White Paper
+  Image - DP-lbm-pros-wing
+View Attachment:
+JS01-LBMBLUE02
+View Attachment:
+JS01-LBMCRM03
+View Attachment:
+z-rodmir01
+View Attachment:
+z-rodmir02
+View Attachment:
+z-rodmir03
+View Attachment:
+z-rodmir04
+View Attachment:
+z-rodmir06
+View Attachment:
+z-rodmir05
+View Attachment:
+ 
+}
+{ Comment #8
+Author: Mr. Gelperin- incorrect document
+Date: 
+Comment: 
+}
+{ Comment #9
+Author: Tamara Schwartz
+Date: Oct 12, 2016
+Comment: See attached file(s)
+
+As more fully detailed in the attached letter, we are concerned that current salesforce and consumer education about autonomous vehicle features is insufficent, and that the voluntary reporting recommended by the guidance is inadequate.
+
+On May 10, 2014, our 16-year-old daughter was in her car, properly stopped at a red light behind another vehicle. A brand new Mercedes GL450 was coming down that neighborhood street on a test drive. The salesman did not understand the automated braking component of the adaptive cruise control system (Distronic Plus - a Level 1 autonomous feature). He had the customer set the cruise control at 40 mph in a 35 mph speed zone and told her not to touch the brakes - that the system would stop the car better than she could.
+
+Their SUV slammed into our daughter's car at approximately 40 miles per hour, propelling her vehicle into the car stopped ahead of hers and then both of those vehicles into the active intersection. While we were fortunate that her airbags deployed and her seatbelt restrained her, she suffered a serious concussion, requiring weeks of isolation and months of therapy to regain her health. We were of course very thankful, though, because had the crash occurred even a few seconds before or after, the cars could also have been struck by crossing traffic with tragic results.
+
+We are very aware of the wonderful potential safety benefits that increasingly automated features can bring to our roadways, and look forward to a future of more secure automotive travel. However, as our experience shows, this current situation of various manufacturers bringing a variety of different features to market can cause a lot of confusion. Moreover, there is no efficient ongoing way to ensure that data about crashes like these, brought about by confusion about autonomous features in the marketplace, are made known.
+
+Attachments  (1)
+Comments to Federal Automated Vehicles Policy
+View Attachment:
+ 
+}
+{ Comment #10
+Author: Dan Tyler
+Date: Oct 12, 2016
+Comment: It is imperative that people continue to be able to get where they need to go via non-motorized modes. Please continue to preserve the rights and mobility of people who choose to not use motorized transportation (or cannot use it) in any subsequent law or policy.
+I appreciate the attention to non-motorized users' safety in this policy and request that it remain at the forefront of all conversations about automated vehicles.
+ 
+}
+{ Comment #11
+Author: Mr. Gelperin- incorrect document
+Date: 
+Comment: 
+}
+{ Comment #12
+Author: Geoffrey Barrance
+Date: Oct 13, 2016
+Comment: The steps in this policy to make vehicle manufacturers properly accountable for the design and implementation of the automated features of their products are an improvement on the current free-for-all. But they do not go far enough. Several critical system-level technical requirements are not adequately covered.
+In my attached comments I discuss the need for NHTSA to mandate specific performance standards for operation in fault-free state and in cases where systems have reconfigured to deal with fault conditions.
+I also raise four other issues: psychological perceptions of safety; need for unified approach to solutions for the Trolley Problem; need for guidance on vehicle condition with respect to its effect on system performance, and need for coordinated policies to resolve unstructured or deadlock scenarios. All of these issues require NHTSA to provide further guidance.
+Attachments  (1)
+Comments on Federal Automated Vehicles Policy
+View Attachment:
+ 
+}
+{ Comment #13
+Author: Jon Hagar
+Date: Oct 13, 2016
+Comment: Comments to HAV Federal Automated Vehicles Policy
+Jon Hagar, Grand Software Testing, LLC, Colorado USA
+IEEE and ISO Lead Editor/Author for ISO 29119 Software Testing, and IEEE 1012 V&V standards
+Object Modeling Group (OMG) co-chair: UML Testing Profile (UTP 2.0) for Models
+Book Author: Software Test Attacks to Break Mobile and Embedded Devices, and IoT Dev-Testing
+Contact information: jon.d.hagar@gmail.com or 303-903-5536.
+Comments dated: Oct 2016
+Comments made regarding: version Sept 2016
+
+File Attached: MSword
+------------------------------------------------------------------------------------------------------------------------
+Executive Summary
+The attached comments are made on Federal Automated Vehicles Policy for highly automated vehicles (HAVs). Comments are provided on specific suggestions and then general comments to the overall policy. The focus of my comments is from a Validation, V&V, and test practice viewpoint, which includes: systems, hardware, and software considerations. Suggestions are made for the national level but have application to international areas, since the HAV market will eventually be global in nature. Information on reference materials and follow up recommendations are included at the end of the paper.
+
+Some 30 specific and general comments and suggests are made in the file.
+Attachments  (1)
+Comments HAV Policy-edited-LMH
+View Attachment:
+ 
+}
+{ Comment #14
+Author: David Gelperin
+Date: Oct 19, 2016
+Comment: Abstract
+
+The attached note identifies five significant defects in the Vehicle Performance Guidance of the recent HAV policy and suggests changes.
+
+Defect 1. The policy's vague description of a framework for developing and verifying complex, safety-critical software is inadequate.
+Defect 2. The policy leaves each Automobile Manufacturer and NHTSA to develop separate problem definitions.
+Defect 3. The "Safety Assessment letter" is dangerously incomplete.
+Defect 4. Self-certification of complex, safety-critical software by developers inexperienced with such software is dangerous.
+Defect 5. Vague terminology is dangerous.
+Attachments  (1)
+Defects in NHTSA Policy
+View Attachment:
+ 
+}
+{ Comment #15
+Author: Michael Briskie
+Date: Oct 21, 2016
+Comment: I encourage NHTSA to include manufacturer testing and reporting requirements for the expected lifespan of parts in any HAV. I have seen a tremendous amount of thought put towards the safe introduction of HAVs, but frighteningly little consideration for these systems as they age. Will LIDAR and Sonar and camera systems and all sensors work just as well at 50k,100k, or 150k miles? What danger is imposed on the driving public when electronic systems begin to fail on their own, or fail to communicate properly with the mechanical systems they operate?
+
+Additionally I encourage the Agency to include guidelines for vehicle maintenance for HAVs. Many of these proposals seem to assume "perfect world" driving scenarios. Bad weather, damaged roads, accident history, and of course poor maintenance all account for imperfect vehicles. How will an improperly maintained HAV protect its occupants and those in other vehicles around it? Will the cars not run at all until certain required maintenance and inspections are completed? What will those inspections consist of and who is responsible for them, in that case? Or perhaps they will be allowed to run and drive in badly maintained states, which could easily increase traffic incidents and fatalities due to negligence of the vehicle owner or fleet owners.
+
+ 
+}
+{ Comment #16
+Author: Michael Briskie
+Date: Oct 21, 2016
+Comment: Excellent questions
+ 
+}
+{ Comment #17
+Author: John Pitoniak
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #18
+Author: Jerry Medberry
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #19
+Author: Ed Kelley
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #20
+Author: STEVE JOHNSON
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #21
+Author: Mike Jenkins
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #22
+Author: Buck Pilkenton
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Don't ever allow these monstrosities. Not now, not sometime, but NEVER.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #23
+Author: John Powers
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #24
+Author: Gary Olthoff
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #25
+Author: Jerry Jones
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #26
+Author: Randy Postlethwait
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #27
+Author: John Karnes
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #28
+Author: Robert Kimbro
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #29
+Author: Richard Stinson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #30
+Author: David Fiebelkorn
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #31
+Author: Daryl Fornuff
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #32
+Author: Allen Rhoades
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #33
+Author: Robert Kurucz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #34
+Author: Joseph Notovitz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #35
+Author: Thomas Walder
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #36
+Author: Doren Child
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #37
+Author: Daniel Marchigiani
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #38
+Author: Kenneth Strobel
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #39
+Author: Jim Hopkins
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #40
+Author: Justin Evans
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #41
+Author: Neil Hemenway
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #42
+Author: Robert Johnson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #43
+Author: John Hazle
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #44
+Author: John Rhode
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #45
+Author: Alan Adkins
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #46
+Author: Ed Reeves
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #47
+Author: Larry Heller
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #48
+Author: Michael Simmons Sr
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #49
+Author: Frank Shacklee
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #50
+Author: Timothy Trammell
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #51
+Author: Duane Jones
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #52
+Author: Jim Granger
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #53
+Author: Lyall Smith
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #54
+Author: Chuck Dickens
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #55
+Author: Aaron Chandler
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #56
+Author: Michael Frost
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #57
+Author: dan carey
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #58
+Author: clay russell
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #59
+Author: Mark Castillero
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #60
+Author: David Ruster
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #61
+Author: David Russell
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #62
+Author: Richard McDaniel
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #63
+Author: mark steers
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #64
+Author: Bernie Zelazny
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #65
+Author: Andrew Mathias
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #66
+Author: Daniel Sandvig
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #67
+Author: Tom Houston
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #68
+Author: Lisa Duperon
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #69
+Author: John Holmes
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #70
+Author: Tom Spivey
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #71
+Author: Tom Nichols
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #72
+Author: Gilbert Busick
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #73
+Author: Jason Menefee
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #74
+Author: john antolak
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #75
+Author: Chris Karlson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #76
+Author: Steve Sachar
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #77
+Author: Michael Scott
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #78
+Author: MATTHEW CAIN
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #79
+Author: William Yeager
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #80
+Author: Daniel Fucella
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #81
+Author: Harold Wilson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #82
+Author: Allen Marker
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #83
+Author: Roy Barnes
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #84
+Author: Nathan Russell
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #85
+Author: Peter Hughes
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #86
+Author: MARK EDWARDS
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #87
+Author: John Heidenreich
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #88
+Author: Frank Rose
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #89
+Author: Stevem Kurtzz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #90
+Author: Hjalmar Trent
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #91
+Author: john j. palkovitz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #92
+Author: Marion Moll
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #93
+Author: R. F. Mulvaney
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #94
+Author: Bocci ponzini
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #95
+Author: Terry Herr
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #96
+Author: Cary Gressinger
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #97
+Author: Philip McCarthy
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #98
+Author: Charles Duhe
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #99
+Author: Domenick Romanello
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #100
+Author: Orrin Beckner
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #101
+Author: Ed Adams Jr.
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #102
+Author: Robert Vartanian
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #103
+Author: Victoria De Meo
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #104
+Author: Larry Belisle
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #105
+Author: Wayne Vantrease
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #106
+Author: Ross Petersen
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #107
+Author: william papianou
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #108
+Author: James Popiano
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #109
+Author: Randall Bard
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #110
+Author: Michael Gallagher
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #111
+Author: James Derr
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #112
+Author: Kerry Hoffman
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #113
+Author: Ronald Weber
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #114
+Author: Roger Retzke
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+The U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, includes "Application" (applicable motor vehicles) and a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+
+My Comments:
+1) The "Applications" section should specifically include motorcycles for highway operation.
+2) The "15 Point Safety Assessment" should state an objective of ensuring HAV technologies, and the vehicle operators, will benefit the safety of operators and passengers of motor vehicles [including motorcycles] lacking HAV technologies of their own.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #115
+Author: Cary Gressinger
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #116
+Author: William Gillespie
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #117
+Author: Pat Griffes
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #118
+Author: Ron Sperry
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #119
+Author: Mitch Schappert
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #120
+Author: Ward Good
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #121
+Author: Greg Collins
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #122
+Author: Roger Hunter
+Date: Oct 25, 2016
+Comment: I believe the 'ushering in' of electonic devices for detection and preventure is a hugh mistake. The programming for these systems are years away from being completely reliable. Only if the manufacturers and distributors are held financially and criminally liable should the use of these devices be permitted. A much smarter appoach would be to educate drivers to be a more responsive driver.
+Same as Comment #17
+ 
+}
+{ Comment #123
+Author: Jack McGee
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #124
+Author: Rodney Mayhew
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #125
+Author: Michael Kagan
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #126
+Author: Christopher Beer
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #127
+Author: David Kirk
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #128
+Author: Charles Smith
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #129
+Author: William Wood
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #130
+Author: Steve Schlueter
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #131
+Author: Michael Ramos
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #132
+Author: Mike Lopez
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #133
+Author: John Olson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #134
+Author: Michael Meyer
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #135
+Author: Robert O'Connor
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #136
+Author: Howard Bell
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+
+I am NOT in favor of anything that is automated in my, or others automobile or truck.
+ 
+}
+{ Comment #137
+Author: Edward Peterson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #138
+Author: Kenneth Monnin
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #139
+Author: Michael Moore
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #140
+Author: David Rocha
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #141
+Author: todd dangelo
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #142
+Author: John Criswell
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #143
+Author: Timothy Bennett
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #144
+Author: Stephen Greene Jr
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #145
+Author: Kenneth and Pamela Cooley
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #146
+Author: Christopher Kiely
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #147
+Author: Dwight York
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #148
+Author: DOUGLAS WOLFE
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #149
+Author: W James Whinn
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #150
+Author: fred lavance
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #151
+Author: Nicholas Vicente
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #152
+Author: John Davis
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #153
+Author: jon weaver
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #154
+Author: jon weaver
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #155
+Author: Mark McPhail
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #156
+Author: Russell Linstrom
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #157
+Author: Fred Pentz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #158
+Author: Dan Balla
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles, bicycles and pedestrians and decreasing the number of motorcycle operators and passengers, bicyclists and pedestrians injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles, bicycles and pedestrians as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles, bicycles and pedestrians in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #159
+Author: James Robinson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #160
+Author: Steven Renaut
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #161
+Author: Barre Bull
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #162
+Author: Paul Bucher
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #163
+Author: Gary Sellers
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #164
+Author: Chit Lafountain
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #165
+Author: Michael Ceriale
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #166
+Author: Norman Sease
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on or distracted by these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #167
+Author: Frank Mooney
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #168
+Author: David Valdes
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #169
+Author: Lee Felter
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #170
+Author: HYMEN WALLACE
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #171
+Author: Ron Sobchik
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #172
+Author: Jeff Marks
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #173
+Author: Frank Rocoo
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #174
+Author: Mike McClure
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #175
+Author: Danny Seybold
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #176
+Author: Gary Truax
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #177
+Author: Douglas Meyer
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #178
+Author: Giampiero Bongiovanni
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #179
+Author: Allan Wilkening
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #180
+Author: Geoffrey Greene
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #181
+Author: Linda Patton
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #182
+Author: Reisa Pentz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #183
+Author: Steve Polachek
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #184
+Author: Daniel Coyle
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #185
+Author: Thomas Stultz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #186
+Author: Kenneth Slabaugh
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #187
+Author: Robert Sharp
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #188
+Author: Geoff Cupak
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #189
+Author: Thomas Mason
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #190
+Author: Nathan Beck Jr.
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #191
+Author: harold beaumont
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #192
+Author: Douglas Teply
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #193
+Author: Tim Morgan
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #194
+Author: Karl Hanisch
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #195
+Author: Philip Teisl
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #196
+Author: Paul Couture
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #197
+Author: S. Thomas Sandham
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #198
+Author: Brandee Bullin
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #199
+Author: Scott Wynn
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #200
+Author: John Gardner
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #201
+Author: Rick Podliska
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #202
+Author: Stefan Kowalewski
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #203
+Author: scott kirkham
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #204
+Author: Ahniwa Ferrari
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #205
+Author: Doug Cropper
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #206
+Author: Glenn Riley
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #207
+Author: James Sesslar
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #208
+Author: John STALL
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #209
+Author: Richard Thomasson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #210
+Author: Marcus Posey
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #211
+Author: Dave Wormald
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #212
+Author: William Young
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #213
+Author: Vicki Rossing
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #214
+Author: Wes Paro
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #215
+Author: Charles Manning
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #216
+Author: Mark Binns
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving MOTORCYCLES and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes MOTORCYCLES as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to MOTORCYCLES in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, SAFE OPERATION OF A VEHICLE REMAINS THE OPERATOR'S RESPONSIBILITY.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #217
+Author: Lauren Secular
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #218
+Author: Chuck Lange
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #219
+Author: Daniel Sporer
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #220
+Author: Jason Moore
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #221
+Author: Geoffrey Beasley
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #222
+Author: Lynn Auernheimer
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #223
+Author: Harold Goldberg
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #224
+Author: DAVID JAMES
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #225
+Author: Chris Williamson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #226
+Author: richard richer
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #227
+Author: Mark Maynard
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #228
+Author: Greg Alexander
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #229
+Author: Wesley Mills
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #230
+Author: Bill Gasque
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #231
+Author: Scott Benedetti
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #232
+Author: Tom Schultheis
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #233
+Author: Greg Sheehan
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #234
+Author: William Powers
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #235
+Author: James Baker
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #236
+Author: Ron Weinberg
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #237
+Author: Frank Pedigo
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #238
+Author: Cindy Walas
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #239
+Author: William Ross
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #240
+Author: Lin & Robert Horsch
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #241
+Author: David Cairns
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #242
+Author: Thomas Huff
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #243
+Author: Matthew Pramik
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #244
+Author: Paul Mears
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #245
+Author: Richard Hackmann
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #246
+Author: David Bardell
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #247
+Author: Mark Stefani
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #248
+Author: Lonnie Heidtke
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #249
+Author: Paul Frizane
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #250
+Author: George King
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #251
+Author: Stuart Klein
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #252
+Author: gary wahlman
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #253
+Author: Alan Hoppen
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #254
+Author: William Barlow
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #255
+Author: Andrew Friedman
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #256
+Author: Thomas Patton
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #257
+Author: John White
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #258
+Author: John Steffes
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #259
+Author: Michael Van Horn
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #260
+Author: Charles Giannetto
+Date: Oct 25, 2016
+Comment: We are writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, we need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, we are concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #261
+Author: Mark D. Infield
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #262
+Author: Don Matre
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #263
+Author: Bo Baggs
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #264
+Author: Chip Littler
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #265
+Author: Lee Spector
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #266
+Author: Keeling Neves
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #267
+Author: Scott McKay
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #268
+Author: John Oppenheimer
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #269
+Author: Kim Matthiesen
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #270
+Author: Jimmy Wilson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #271
+Author: Lars Pave
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #272
+Author: Anthony Colella
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #273
+Author: Robert Kortan
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #274
+Author: Schurkey Swanke
+Date: Oct 25, 2016
+Comment: Regarding the National Highway Traffic Safety Administration's Docket No. NHTSA-2016-0090:
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+What will actually happen is a massive reduction in driver skill as "technology" becomes overly relied-upon. Eventually, a human being driving their own vehicle will be considered reckless, and uninsurable.
+
+We've already seen how Government first promotes dependence, then uses that dependence directly or indirectly against We The People.
+
+This is another step towards technology-based slavery, where people aren't trusted to make the decisions that affect them, and the government uses the data from the technology devices to accomplish warrantless surveilance of the population. "Safety" is NOT more important than "Freedom". Free people can choose to be safe, people made "safe" by government edict can never choose to be free.
+
+Automated/driverless vehicles must be immediately removed from service. Under no circumstances should they be allowed on public roadways. No further research to be permitted. Money to be provided for the promotion of DRIVER SKILL TRAINING.
+ 
+}
+{ Comment #275
+Author: Adam Shore
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #276
+Author: Kevin Collins
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #277
+Author: Dennis Aragona
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #278
+Author: Gary Herpick
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #279
+Author: Timothy J. Wiley
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #280
+Author: RODERICK STORBECK
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #281
+Author: Michael & Kimberly DeCristofaro
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #282
+Author: Joey Ferguson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #283
+Author: Pete Tamblyn
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #284
+Author: James Jones III
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #285
+Author: Salvatore Lima
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #286
+Author: Thomas Carey
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #287
+Author: John Both
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #288
+Author: Jack Trace
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #289
+Author: David Simmons
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #290
+Author: Dino Ferrare
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #291
+Author: Jeffrey Dion
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #292
+Author: ric ault
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #293
+Author: James Hall
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #294
+Author: john chedtnutt
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #295
+Author: phil gehrke
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately I'midentifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #296
+Author: Ricardo Cosgrave
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #297
+Author: PATRICK OTTOBRE
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #298
+Author: George Eaklor
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #299
+Author: Bill Fleming
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #300
+Author: Bruce Smith
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #301
+Author: Larry Wellman
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #302
+Author: Sharron Zoyhofdski
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #303
+Author: Jamie Reece
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #304
+Author: Warren Ryan
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #305
+Author: John Hoey
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #306
+Author: Kevin Foltz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #307
+Author: Thomas Ryckman
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #308
+Author: Don Taylor
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #309
+Author: Matt Mandell
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan. Along with this I think you should consider implementing a Federal "No Lane Splitting Rule" to help ensure safety for motorcyclists.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #310
+Author: John Bunch
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #311
+Author: James Colagross
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #312
+Author: Martin Whetsel
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #313
+Author: john montgomery
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #314
+Author: Bret Asrow
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #315
+Author: Matthew Schroeder
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #316
+Author: James Schumacher
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #317
+Author: Zac Robbins
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #318
+Author: JON WITMER
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #319
+Author: Arthur Sunshine
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #320
+Author: Daniel Edgell
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #321
+Author: Chuck Garby
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #322
+Author: Kevin Coston
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #323
+Author: Steve Long
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #324
+Author: Michael Stanley
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #325
+Author: Verlin Battle
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #326
+Author: Thomas Elliot
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #327
+Author: Thomas Wallace
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #328
+Author: Arden Dusz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #329
+Author: Greg Ruffin
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #330
+Author: Thomas J. Ohmer
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #331
+Author: Paul W. Cote
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #332
+}
+{ Comment #333
+Author: ARMON CLOSE
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #334
+Author: John Schneller
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #335
+Author: Stephen Williams
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #336
+Author: William Johnson
+Date: Oct 25, 2016
+Comment: I am writing to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #337
+Author: James Stimpson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #338
+Author: Patricia Sellers
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #339
+Author: Paul Landau
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Just to reiterate, motorcycles need to be included in any plan going forward.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #340
+Author: EDWARD PAIGE
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #341
+Author: matthew roy
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #342
+Author: John Keefe
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #343
+Author: Brian Sampson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #344
+Author: doyle henken
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #345
+Author: Robert Groesbeck
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #346
+Author: Daniel Phillips
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems aynd software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #347
+Author: Guy Hoovler
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #348
+Author: Gregg Baldwin
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #349
+Author: Sheridan Smith Jr
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #350
+Author: Robert Cuttler
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #351
+Author: Tom Lynn
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #352
+Author: Gary Wike
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #353
+Author: Robin Yates
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #354
+Author: Stephen Pearce
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #355
+Author: James Crouch
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #356
+Author: Michael Rotterman
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #357
+Author: Ben Vanhorn
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #358
+Author: wIlliam Wells
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #359
+Author: Gary Jobin
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #360
+Author: James Popham
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #361
+Author: Richard Colburn
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #362
+Author: Jason Sandoval
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #363
+Author: Greg Won
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #364
+Author: Alan Schneider
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #365
+Author: Robert W. Abbott, PLS
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #366
+Author: Greg Williams
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #367
+Author: scott braman
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #368
+Author: kyle schaen
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #369
+Author: ROBERT FLORES
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #370
+Author: Bob Good
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #371
+Author: Ed Walters
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #372
+Author: Kent Lundstrom
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #373
+Author: BOB THEABOLT
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #374
+Author: Dan & Aina Dickerson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #375
+Author: William Phee
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #376
+Author: Americo Ross
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #377
+Author: John Honan
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #378
+Author: Josh Hanley
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #379
+Author: Richard G. Stambaugh
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #380
+Author: Jacob Wilcox
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #381
+Author: Albert Silbaugh
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #382
+Author: Joe Long
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #383
+Author: Garry Calman
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #384
+Author: Stephen Kolwicz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #385
+Author: Gary Capodanno
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #386
+Author: Bruce Sanders
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #387
+Author: Mark Cobin
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #388
+Author: Ellary Kahan
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #389
+Author: Troy Negley
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #390
+Author: Jason Patton
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #391
+Author: Ed Johnson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #392
+Author: Steven DiCicco
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #393
+Author: Steve O'Connor
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #394
+Author: Michael Giebler
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #395
+Author: joe schlagenhaft
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #396
+Author: Johnny Johnson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #397
+Author: Alex Gallacher
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #398
+Author: Michael Malloy
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #399
+Author: HANK RAPHEL
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #400
+Author: Dennis Bielinski
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #401
+Author: Tom West
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in ALL traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles MUST NOT supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Additionally, there should be mandated penalties with significant consequences to manufacturers for any accidents caused by failures of automated equipment when such failures can be shown to have contributed significantly to the accident. These penalties and consequences should increase dramatically should it be shown that such failures are a consequence of defective design or manufacture, or insufficient or fraudulent testing of the automated systems. (e.g. the current situations individually surrounding Tocotta and Volkswagen.)
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #402
+Author: robert trevathan
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #403
+Author: JDavid COOPER
+Date: Oct 25, 2016
+Comment: I agree that Motorcycles should be VISIBLE & TRACKED by this technology ... but ... NOT controlled by it ... BRAKING & Various other autonomous controls could have DISASTEROUS result on TWO (2) Wheels that are NOT applicable to FOUR (4) or More wheeled vehicles.
+
+Same as Comment #17
+ 
+}
+{ Comment #404
+Author: Glenn Davis
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #405
+Author: Richard Edmonds
+Date: Oct 25, 2016
+Comment: I am writing to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #406
+Author: Jesse Sira
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #407
+Author: Pam Markey
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #408
+Author: John Cable
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #409
+Author: Stephen Lau
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #410
+Author: David Faires
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #411
+Author: william milligan
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #412
+Author: David Tarantino
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #413
+Author: Kym Schumacher
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #414
+Author: Thomas Steen
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #415
+Author: Russ Borman
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #416
+Author: William Pollack
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #417
+Author: Robert Holmes
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #418
+Author: Jim Loveall
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #419
+Author: Jon Henke
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #420
+Author: Jeff Barber
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #421
+Author: william slemaker
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #422
+Author: Lansing Smith
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #423
+Author: Jeff Costner
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #424
+Author: Shawn Phillipps
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #425
+Author: Robert Ribeiro
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #426
+Author: John Finch
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #427
+Author: RON TRISEL
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #428
+Author: Larry Wheeler
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #429
+Author: August Plozizka
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #430
+Author: ronald siegel
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #431
+Author: Frank Carpenter
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #432
+Author: Brock Winger
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #433
+Author: Charles Dunitz
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #434
+Author: Bryan OShaughnessy
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #435
+Author: Michael Roberson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #436
+Author: Doug Conner
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #437
+Author: david hall
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #438
+Author: John Sikora
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #439
+Author: Michael Mele
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #440
+Author: Donald Davis
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make." It is important to understand that while motorcyclists operate vehicles that exercise and demand one's concentration, it is important to consider the long-term effects on operators of vehicles that already accommodate too many distractions and lull their drivers with a false sense of security.
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies and/or funding to design more "motorcycle-only" commuter lanes that provide more protection from those so-called "drivers'" mental skills that will inevitably deteriorate, from "distracted" to "clinically brain-dead", as a result of their growing dependence on, and subjugation to, these technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #441
+Author: John Schneller
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #442
+Author: Joseph MERCHAK
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #443
+Author: Bruce E. Gullifer
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #444
+Author: James Hannon
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #445
+Author: John Piatt
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #446
+Author: James Brophy
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #447
+Author: Roy Hooser
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #448
+Author: kenneth staub
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #449
+Author: steven rice
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #450
+Author: Terry Kennard
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #451
+Author: arthur williams
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #452
+Author: Brian Richards
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+I also want to make one additional comment, having the vehicles' performance more closely monitored AND controlled by software opens up a potential for another problem, that of a vehicle's control system being hacked and controlled remotely by someone with possibly criminal intentions. A serious effort must be included to protect and secure the onboard control systems from outside interference.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #453
+Author: craig gray
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #454
+Author: Mike Bolton
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #455
+Author: Joe Temple
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #456
+Author: Douglas Cioce
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #457
+Author: Frederick St. Amour
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #458
+Author: Shawn DeJong
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #459
+Author: Curt Johnson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #460
+Author: Alan Snelson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #461
+Author: Kenneth Vicker
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #462
+Author: Joseph Donner
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #463
+Author: David Thomson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #464
+Author: Scott Senst
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #465
+Author: Ron Morris
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #466
+Author: Bob Brassard
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #467
+Author: Robin Hinderman
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #468
+Author: Douglas Freund
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #469
+Author: Robert Garrett
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #470
+Author: Harry Hingst
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #471
+Author: Aldo Giovannini
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #472
+Author: Jeff Yon
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #473
+Author: Miller Waddington
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #474
+Author: wayne phillips
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+---------- as a motorcyclist, i can scarcely wait for self-driving cars to supplant the stuporous dodos who are presently driving on the roads ! please speed up your processes to get this to happen . . .
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public."
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #475
+Author: Dennis Williams
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #476
+Author: JASON WESTERFIELD
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #477
+Author: Carl Reynolds
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #478
+Author: ronald hackmann
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #479
+Author: Thierry Mousel
+Date: Oct 25, 2016
+Comment: Please find attached the comments from IEE S.A. on the Federal Automated Vehicles Policy - Docket No. NHTSA-2016-0090
+Attachments  (1)
+IEE comment to NHTSA-AD Policy-rfc
+View Attachment:
+ 
+}
+{ Comment #480
+Author: Tim Shephard
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #481
+Author: Robert Tanger
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #482
+Author: Steven Linden
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #483
+Author: Glenn Mills
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #484
+Author: Jim Nickla
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #485
+Author: Tim Davies
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #486
+Author: Chris Maul
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #487
+Author: jack harris
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #488
+Author: Glen Brach
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #489
+Author: Fred Meeder
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #490
+Author: Richard Baker
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #491
+Author: David Shoemaker
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #492
+Author: Craig Berry
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #493
+Author: Gerry Gorbach
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #494
+Author: Johnny Maddox
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority. To say nothing of crashes with animals, pedestrians, bicycles, and other objects in the roadway. What about legal liabilities? Insurance?
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #495
+Author: Richard Gereau
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #496
+Author: jeffrey a wilson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #497
+Author: John Baldwin
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #498
+Author: Peter Sieben
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #499
+Author: James Welch
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #500
+Author: David Stromberg
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #501
+Author: Lars Lindeberg
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #502
+Author: Dennis Jack
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #503
+Author: Dan McDonnell
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #504
+Author: Robert Godon
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #505
+Author: Kenneth Willmon
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #506
+Author: Patrick Beaumont
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority. Therefore, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Thus, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #507
+Author: John Aulenbach
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #508
+Author: delbert logsdon
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #509
+Author: Kevin Murphy
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #510
+Author: Robert Bird
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #511
+Author: Jerry Woods
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #512
+Author: Robert Herr
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #513
+Author: Mike Pace
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #514
+Author: Dennis Bennett
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #515
+Author: dennis kranes
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #516
+Author: Carsten Smidt
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #517
+Author: SAM GALIGER
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #518
+Author: Robert Farrell
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #519
+Author: Ken Zanon
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #520
+Author: William Christian
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #521
+Author: Vincent Rohr
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #522
+Author: John Castner
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #523
+Author: Randy Abramson
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #524
+Author: Lee House
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #525
+Author: Richard Rountree
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #526
+Author: Steven Meakings
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #527
+Author: James Brach
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #528
+Author: Dennis Melancon
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #529
+Author: Jeffrey Wolinsky
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #530
+Author: Ken Markham
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #531
+Author: Larry Jensen
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #532
+Author: John Everritt
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #533
+Author: Scott Kieper
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #534
+Author: Joel Lund
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #535
+Author: Chuck&Anne Fairchild
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #536
+Author: Larry Killien
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies; AND SHOULD REQUIRE the operator to be a participant in the operation of the vehicle either through a physical connection or actual connection and check in every few seconds!
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #537
+Author: Roy Rogers
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #538
+Author: Anthony Walas
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #539
+Author: Rodney Shelley
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #540
+Author: Steven Mathies
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #541
+Author: Henry Waters
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #542
+Author: Michael Costa
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #543
+Author: Raymond Stith
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #544
+Author: Russell Cave
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #545
+Author: Hal Schlesinger
+Date: Oct 25, 2016
+Comment: I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+I have carefully read what the American Motorcycle Association has scripted and I agree with it wholeheartedly, however I would like to also add my own words (bracketed) here. The AMA script appears below that.
+
+[I am sincerely afraid that an effort will be made to normalize all motor vehicles to conform to a specific formula in order to apply this new technology uniformly. Just the thought of automatic braking or steering on a motorcycle is alarming to me. Please respect the fact that we citizens who ride motorcycles in the US do so for reasons that may not be fathomable to the general public. Please do not take our motorcycles away, or curtail their use because they cannot conform to a common technology solution.]
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes motorcycles as part of its plan.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #546
+Author: Arthur Sunshine
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #547
+Author: Kimberly Walker
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #548
+Author: RAYMOND STODDARD
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #549
+Author: TIM ONDERKO
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #550
+Author: Keith Ketchmark
+Date: Oct 25, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #551
+Author: Howard Schemmel
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #552
+Author: jan haines
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #553
+Author: Lawrence Boone
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #554
+Author: Carlene Galanopulo
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #555
+Author: Larry Swenson
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #556
+Author: Jim Parker
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #557
+Author: James Steenson
+Date: Oct 26, 2016
+Comment: As a concerned motorcyclist, I am writing you to you regarding the National Highway Traffic Safety Administration's request for comments on the agency's plan for a federal automated vehicle policy [Docket No. NHTSA-2016-0090] noticed on Sept. 20.
+
+According to the NHTSA notice, "Technologies that can help drivers avoid crashes, or help vehicles themselves avoid crashes, are ushering in a new era of safety for the motoring public." These technologies require "sophisticated computer systems and software to interpret and use the data obtained by the vehicle ... to address and mitigate that overwhelming majority of crashes due to human choices or behavior."
+
+Reducing traffic crashes involving motorcycles and decreasing the number of motorcycle operators and passengers injured or killed each year should be a top priority.
+
+With the proliferation of advanced technologies in passenger vehicles and light trucks, I need assurances that the federal automated vehicle policy includes not just bicycles and pedestrians as part of its plan, but motorcycles as well.
+
+As outlined in the U.S. Department of Transportation's Fact Sheet: AV Policy Section I: Vehicle Performance Guidance For Automated Vehicles, the plan includes a "15-Point Safety Assessment" to "set clear expectations for manufacturers developing and deploying automated vehicle technologies."
+To ensure "clear expectations" are developed at an early stage, the NHTSA needs to test algorithms and software in vehicles to ensure that this new technology adequately and appropriately identifies and properly responds to motorcycles in all traffic situations.
+
+Additionally, I am concerned that vehicle operators will become increasingly dependent on these devices and complacent with regard to their proficiency in operating their vehicle, subscribing to the mindset that "technology will rescue me from any bad decisions I make."
+
+Therefore, the federal automated vehicle policy should include a consumer awareness campaign to educate the public on these new technologies.
+
+Advanced crash-avoidance warning systems technologies used in motor vehicles must not supplant an operator's responsibility to operate the vehicle in a safe and responsible manner. While technology can, and should, enhance the actions of the operator to maintain control of the vehicle, safe operation of a motor vehicle should remain the operator's highest priority.
+
+Thank you for the opportunity to provide comments on this important issue.
+ 
+}
+{ Comment #558
+Author: Wayne Strohacker
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #559
+Author: Paul Melcer
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #560
+Author: Colin Hansen
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #561
+Author: Jeremy Cath
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #562
+Author: Don Gereau
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #563
+Author: Raymond Fox
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #564
+Author: Arielle Eiser
+Date: Oct 26, 2016
+Comment: The National Society of Professional Engineers submits the attached public comment in response to Docket ID No. NHTSA-2016-0090-0001: Federal Automated Vehicles Policy.
+Attachments  (1)
+NSPE Public Comment re NHTSA-2016-0090-0001
+View Attachment:
+ 
+}
+{ Comment #565
+Author: Joe Lawson
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #566
+}
+{ Comment #567
+Author: Storm Shearon
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #568
+Author: Paul Brokaw
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #569
+Author: Larry Hundley
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
+{ Comment #570
+Author: Roger Powers
+Date: Oct 26, 2016
+Comment: Same as Comment #17
+ 
+}
