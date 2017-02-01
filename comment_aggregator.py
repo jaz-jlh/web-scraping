@@ -10,8 +10,16 @@ import time
 
 browser = webdriver.Firefox()		# create browser instance with Firefox
 
-start = 4
-stop = 5
+start = 7
+stop = 100
+
+def wait(seconds):
+	timeout = time.time() + seconds
+	while time.time() < timeout:
+		continue
+
+wait(45)
+
 
 for id in range(start,stop):
 	if id%20 == 0:
@@ -49,10 +57,19 @@ for id in range(start,stop):
 				# 	print("found date at: " + str(i))
 				# if "fatalities" in ((elements[i]).text):
 				# 	print("found message text at: " + str(i))
+			# wait for page to load
+			wait(10)
 
-			elements = browser.find_elements_by_class_name("gwt-")
+			elements = browser.find_elements_by_class_name('gwt-Anchor')
 
-			break;
+			if len(elements) < 1:
+				continue
+			for i in range(len(elements)):
+				if "pdf" in elements[i].get_attribute("href"):
+					elements[i].click()
+
+			#clear the array for the next time around
+			break
 		except:
 			pageReady = 0
 	print "}"

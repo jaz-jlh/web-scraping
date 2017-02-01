@@ -207,3 +207,288 @@ JavaScript error: https://www.regulations.gov/Regs/deferredjs/445557951A442A27CA
 1485911589629	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35124
 1485911591099	Marionette	INFO	Listening on port 35124
 JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1485918824250	geckodriver	INFO	Listening on 127.0.0.1:52638
+1485918825251	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BTCpI5FCuYB6
+1485918825252	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485918825258	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42737
+1485918827546	Marionette	INFO	Listening on port 42737
+1485918892267	geckodriver	INFO	Listening on 127.0.0.1:44690
+1485918893269	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2zV2DDW5waPC
+1485918893269	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485918893271	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42180
+1485918894521	Marionette	INFO	Listening on port 42180
+1485918943835	geckodriver	INFO	Listening on 127.0.0.1:60423
+1485918944835	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AD2GdvGn1Ts4
+1485918944836	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485918944842	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44646
+1485918946226	Marionette	INFO	Listening on port 44646
+1485919015425	geckodriver	INFO	Listening on 127.0.0.1:54511
+1485919016423	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3DHJI6TH745g
+1485919016424	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485919016430	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37839
+1485919017700	Marionette	INFO	Listening on port 37839
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1485919264775	geckodriver	INFO	Listening on 127.0.0.1:49132
+1485919265771	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5NTFU4j2ALO3
+1485919265773	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485919265775	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41356
+1485919266962	Marionette	INFO	Listening on port 41356
+1485919295876	geckodriver	INFO	Listening on 127.0.0.1:38472
+1485919295897	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rMu2h7EXGMq0
+1485919295897	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485919295903	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44062
+1485919298278	Marionette	INFO	Listening on port 44062
+1485919458399	geckodriver	INFO	Listening on 127.0.0.1:59996
+1485919459399	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ecWpHpR7Xhmk
+1485919459400	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485919459405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33186
+1485919460668	Marionette	INFO	Listening on port 33186
+1485919482528	geckodriver	INFO	Listening on 127.0.0.1:53844
+1485919483527	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7zQcKemRjQHm
+1485919483528	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485919483532	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45200
+1485919484666	Marionette	INFO	Listening on port 45200
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1485919982735	geckodriver	INFO	Listening on 127.0.0.1:50612
+1485919983734	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LF9rCH35aUZw
+1485919983735	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485919983739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42320
+1485919984807	Marionette	INFO	Listening on port 42320
+1485920009387	geckodriver	INFO	Listening on 127.0.0.1:51709
+1485920010388	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.v720YxNZuG2y
+1485920010389	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485920010394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37824
+1485920011700	Marionette	INFO	Listening on port 37824
+1485920225138	geckodriver	INFO	Listening on 127.0.0.1:51301
+1485920226154	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ku0BgZbKLWXX
+1485920226157	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485920226159	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38449
+1485920227496	Marionette	INFO	Listening on port 38449
+1485920276173	geckodriver	INFO	Listening on 127.0.0.1:57663
+1485920277175	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pP00Ng3fDkbU
+1485920277177	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485920277183	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39049
+1485920278422	Marionette	INFO	Listening on port 39049
+1485920445257	geckodriver	INFO	Listening on 127.0.0.1:34884
+1485920446256	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XWmXRaBXq7G8
+1485920446257	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485920446260	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46263
+1485920447992	Marionette	INFO	Listening on port 46263
+1485920485556	geckodriver	INFO	Listening on 127.0.0.1:34653
+1485920486558	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IO7PCLmLf0Jq
+1485920486559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485920486563	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40355
+1485920487941	Marionette	INFO	Listening on port 40355
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1485920740618	geckodriver	INFO	Listening on 127.0.0.1:59049
+1485920741617	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.UixWgK2LUdSX
+1485920741619	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485920741625	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37450
+1485920742755	Marionette	INFO	Listening on port 37450
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1485920924953	geckodriver	INFO	Listening on 127.0.0.1:53088
+1485920925944	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uz3s0eicvjBf
+1485920925945	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485920925956	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42766
+1485920927220	Marionette	INFO	Listening on port 42766
+1485921027667	geckodriver	INFO	Listening on 127.0.0.1:32911
+1485921028665	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Cza3DqR8hmD9
+1485921028666	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485921028670	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43703
+1485921029877	Marionette	INFO	Listening on port 43703
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1485921283251	geckodriver	INFO	Listening on 127.0.0.1:54582
+1485921284249	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Pi1yGdyjFDmK
+1485921284250	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485921284255	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34476
+1485921286667	Marionette	INFO	Listening on port 34476
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1485921683194	geckodriver	INFO	Listening on 127.0.0.1:46370
+1485921684195	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rEtUzkrB1Gwk
+1485921684196	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485921684201	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43237
+1485921685463	Marionette	INFO	Listening on port 43237
+1485922430794	geckodriver	INFO	Listening on 127.0.0.1:45430
+1485922431815	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xbNriC4QjMl2
+1485922431817	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485922431820	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39872
+1485922433018	Marionette	INFO	Listening on port 39872
+1485922639478	geckodriver	INFO	Listening on 127.0.0.1:36523
+1485922640483	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5xm6WMP4rQSj
+1485922640488	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485922640491	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40975
+1485922641957	Marionette	INFO	Listening on port 40975
+1485924157934	geckodriver	INFO	Listening on 127.0.0.1:51907
+1485924158919	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iNHwSFNhRB2I
+1485924158921	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485924158980	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45387
+1485924160342	Marionette	INFO	Listening on port 45387
+
+(firefox:7560): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7560): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7560): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7560): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7560): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7560): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485924621016	geckodriver	INFO	Listening on 127.0.0.1:58503
+1485924622022	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yFFWKtQPCOiu
+1485924622024	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485924622030	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44747
+1485924623200	Marionette	INFO	Listening on port 44747
+
+(firefox:8096): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8096): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8096): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8096): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8096): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8096): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 8157] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8157] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1485924705954	geckodriver	INFO	Listening on 127.0.0.1:34056
+1485924706952	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.q4ywLUjmkWjx
+1485924706954	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485924706957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42732
+1485924708034	Marionette	INFO	Listening on port 42732
+
+(firefox:8332): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8332): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8332): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8332): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8332): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8332): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485924946422	geckodriver	INFO	Listening on 127.0.0.1:36901
+1485924947420	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TRfz20BcAKiN
+1485924947421	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485924947423	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45547
+1485924948584	Marionette	INFO	Listening on port 45547
+
+(firefox:8633): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8633): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8633): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8633): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8633): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8633): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 8690] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8690] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1485925218264	geckodriver	INFO	Listening on 127.0.0.1:33654
+1485925219257	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bEpOt09mFahl
+1485925219275	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485925219284	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36332
+1485925220372	Marionette	INFO	Listening on port 36332
+1485925372825	geckodriver	INFO	Listening on 127.0.0.1:51691
+1485925373823	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.x4q9BJERKDif
+1485925373824	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485925373826	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37169
+1485925375041	Marionette	INFO	Listening on port 37169
+1485925611792	geckodriver	INFO	Listening on 127.0.0.1:40565
+1485925612808	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.K7FkpzHTnhYl
+1485925612810	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485925612833	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43399
+1485925620964	Marionette	INFO	Listening on port 43399
+
+(firefox:9542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9542): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1485925800026	geckodriver	INFO	Listening on 127.0.0.1:58162
+1485925801031	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Nf6d2YqwJkxt
+1485925801032	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1485925801040	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44073
+1485925802121	Marionette	INFO	Listening on port 44073
+
+(firefox:9832): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9832): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9832): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9832): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9832): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:9832): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9967] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9967] ###!!! ABORT: Aborting on channel error.: file /build/firefox-MkV0Xf/firefox-50.1.0+build2/ipc/glue/MessageChannel.cpp, line 2056
