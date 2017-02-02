@@ -8,6 +8,10 @@ BASE_URL = "https://www.regulations.gov/document?D=NHTSA-2016-0090-"
 from selenium import webdriver
 import time
 
+from pdf_extractor import extract_text,clear_files
+
+path = "/home/jaz/Dropbox/python/web-scraping/pdfs/"
+
 browser = webdriver.Firefox()		# create browser instance with Firefox
 
 start = 7
@@ -18,22 +22,26 @@ def wait(seconds):
 	while time.time() < timeout:
 		continue
 
-wait(45)
+wait(45)							# wait for me to change browser settings
+									# default save location and default pdf save behavior don't seem
+									# to stick between instances of Firefox as initiated by Selenium
 
 
 for id in range(start,stop):
-	if id%20 == 0:
-		time.sleep(10)				# pause execution every 20 pages, seems to improve performance
-	print "{",						# delimit comments with curly braces
-	print("Comment #" + str(id))	
+	if id%10 == 0:
+		wait(5)					# pause execution every 20 pages, seems to improve performance
+		#extract_text("/home/jaz/Dropbox/python/web-scraping/pdfs/")
+		#clear_files("/home/jaz/Dropbox/python/web-scraping/pdfs/")
+									# moves files to recycle bin
+	#print "{",						# delimit comments with curly braces
+	#print("Comment #" + str(id))	
 	instanceURL = BASE_URL
 	for i in range(4 - len(str(id))):
 		instanceURL += "0"
 	instanceURL += str(id)
 	#print(str(id) + " : " + instanceURL)		#debug print
 	browser.get(instanceURL)
-	pageReady = 0
-	timeout = time.time() + 15					#15 second timeout for page loads
+	timeout = time.time() + 20					#15 second timeout for page loads
 	while time.time() < timeout:
 		try:
 			# Extracts data and prints to terminal---------------------
@@ -57,6 +65,7 @@ for id in range(start,stop):
 				# 	print("found date at: " + str(i))
 				# if "fatalities" in ((elements[i]).text):
 				# 	print("found message text at: " + str(i))
+			
 			# wait for page to load
 			wait(10)
 
@@ -68,8 +77,7 @@ for id in range(start,stop):
 				if "pdf" in elements[i].get_attribute("href"):
 					elements[i].click()
 
-			#clear the array for the next time around
 			break
 		except:
-			pageReady = 0
-	print "}"
+			print("error downloading")
+	#print "}"

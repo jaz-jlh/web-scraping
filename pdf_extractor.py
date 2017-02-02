@@ -5,15 +5,27 @@ import PyPDF2
 from os import listdir
 from os.path import isfile, join
 
-path = "/home/jaz/Dropbox/python/web-scraping/pdfs"
+import send2trash
 
-pdfs = [file for file in listdir(path) if isfile(join(path,f))]
+def extract_text(path):
+	pdfs = [file for file in listdir(path) if isfile(join(path,file))]
 
-for filename in pdfs:
-	pdfFileObj = open(filename,'rb')
-	pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
-	for page in range(pdfReader.numPages):
-		pageObject = pdfRead.getPage(page)
-		print("{" + filename)
-		pageObject.extractText()
+	for filename in pdfs:
+		pdfFileObj = open(path + filename,'rb')
+		pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
+		print("{" + filename + ":\n")
+		for page in range(pdfReader.numPages):
+			pageObject = pdfReader.getPage(page)
+			try:
+				print((pageObject.extractText()).replace("\n",""))
+			except:
+				print("Error extracting text\n")
 		print("}\n")
+
+def clear_files(path):
+	files = [file for file in listdir(path) if isfile(join(path,file))]
+	for filename in files:
+		#print(path + filename)
+		send2trash.send2trash(path + filename)
+
+#clear_files("/home/jaz/Dropbox/python/web-scraping/pdfs/")
