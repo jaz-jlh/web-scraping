@@ -1,3 +1,5 @@
+from __future__ import print_function		#for printing python 3 style
+
 #selenium_sandbox
 
 BASE_URL = "https://www.regulations.gov/document?D=NHTSA-2016-0090-"
@@ -8,31 +10,34 @@ BASE_URL = "https://www.regulations.gov/document?D=NHTSA-2016-0090-"
 from selenium import webdriver
 import time
 
-from pdf_extractor import extract_text,clear_files
-
-path = "/home/jaz/Dropbox/python/web-scraping/pdfs/"
-
+print("Launching Firefox...")
 browser = webdriver.Firefox()		# create browser instance with Firefox
 
-start = 7
+start = 43
 stop = 100
 
-def wait(seconds):
+def wait(seconds, purpose):
+	if len(purpose) != 0:
+		print("Waiting for " + purpose) 
 	timeout = time.time() + seconds
 	while time.time() < timeout:
 		continue
 
-wait(45)							# wait for me to change browser settings
+
+print("Waiting for preferences to be set and Google homepage to be accessed...")
+
+while(str(browser.current_url) != "about:preferences#content"):
+	continue
+
+#wait(45, "preferences to be set")		# wait for me to change browser settings
 									# default save location and default pdf save behavior don't seem
 									# to stick between instances of Firefox as initiated by Selenium
 
 
 for id in range(start,stop):
+	print("-----------------Loading comment page #" + str(id) + "-------------")
 	if id%10 == 0:
-		wait(5)					# pause execution every 20 pages, seems to improve performance
-		#extract_text("/home/jaz/Dropbox/python/web-scraping/pdfs/")
-		#clear_files("/home/jaz/Dropbox/python/web-scraping/pdfs/")
-									# moves files to recycle bin
+		wait(5, "performance")		# pause execution every 10 pages, seems to improve performance
 	#print "{",						# delimit comments with curly braces
 	#print("Comment #" + str(id))	
 	instanceURL = BASE_URL
@@ -40,8 +45,15 @@ for id in range(start,stop):
 		instanceURL += "0"
 	instanceURL += str(id)
 	#print(str(id) + " : " + instanceURL)		#debug print
+	#timeout = time.time() + 5					#10 second timeout for page gets
+	print("Getting page...")
+	# while time.time() < timeout:
+	# 	try:
 	browser.get(instanceURL)
-	timeout = time.time() + 20					#15 second timeout for page loads
+	# 	wait(1,"")
+	# except Exception, e:
+	# 	print("Error getting page: " + str(e))
+	timeout = time.time() + 20					#20 second timeout for page loads
 	while time.time() < timeout:
 		try:
 			# Extracts data and prints to terminal---------------------
@@ -67,17 +79,20 @@ for id in range(start,stop):
 				# 	print("found message text at: " + str(i))
 			
 			# wait for page to load
-			wait(10)
+			wait(10, "page to load...")
 
 			elements = browser.find_elements_by_class_name('gwt-Anchor')
-
-			if len(elements) < 1:
-				continue
-			for i in range(len(elements)):
-				if "pdf" in elements[i].get_attribute("href"):
-					elements[i].click()
+			elements = elements[11:]
+			print("Found " + str(len(elements)) + " attachments")
+			if len(elements) > 0:
+				for element in elements:
+					if "pdf" in str(element.get_attribute("href")):
+						print("Downloading comment #" + str(id) + " attachment " + str(element.get_attribute("href"))[93:94])
+						element.click()
+					else:
+						print("No PDF attachments found")
 
 			break
-		except:
-			print("error downloading")
+		except Exception, e:
+			print("Exception: " + str(e))
 	#print "}"

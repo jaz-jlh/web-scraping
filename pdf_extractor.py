@@ -7,7 +7,7 @@ from os.path import isfile, join
 
 import send2trash
 
-def extract_text(path):
+def extract_all_text(path):
 	pdfs = [file for file in listdir(path) if isfile(join(path,file))]
 
 	for filename in pdfs:
